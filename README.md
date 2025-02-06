@@ -1,37 +1,30 @@
-## Hi there 👋
+### Hi, welcome to my github ✨ 
 
-<!-- Cabeçaçhos -->
-*italico* ou _italico_
+🌟  Me chamo Débora Farias;
 
+🌟 Tenho 21 anos;
 
-**negrito** ou __negrito__
-
-
-___negrito e italico___
-
-- Lista 1
-- lista 2
-  - sublista
+⚙️💻  Estudando bacharel em Eng. da Computação. 
 
 
+Tecnologias
+------------------------
+| Cursos | Certifiados |
 
-[Texto da imagem](hhttps://i.pinimg.com/736x/3f/77/7b/3f777b1b9f623fcc28ead9b6c2669722.jpg)
+[Introdução a Lógica de Programação com a GFT]()
+
+[Aperte Start com Lógica de Programação]()
+
+[Versionamento de Código co Git e Github]()
+
+[Príncipios do Git e Github]()
+
+[Autenticações]()
+
+[Colaboração no Github]()
+
+[Ambiente de Desenvolvimento e Primeiros Passos com Python]()
+
+[Introdução a Python com Suzano]()
 
 
-![Texto da imagem](https://i.pinimg.com/736x/3f/77/7b/3f777b1b9f623fcc28ead9b6c2669722.jpg)
-
-
-<!--
-**Deboroca/deboroca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
